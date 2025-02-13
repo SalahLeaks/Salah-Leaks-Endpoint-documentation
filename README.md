@@ -52,8 +52,3 @@ Web APIs however are a bit different, these require web login cookies.
 ## Contributions
 
 Checkout the [Contribution Info](./CONTRIBUTING.md)
-
-## Authors
-
-- [Jem](https://twitter.com/jemfleaks) (jemcer#1009)
-- [Lele](https://twitter.com/lel3x) (LeleDerGrasshalm#1872) - Most part
