@@ -1,4 +1,4 @@
-# Epic Games - API Documentation
+8# Epic Games - API Documentation
 
 ## Getting started
 
@@ -52,3 +52,5 @@ Web APIs however are a bit different, these require web login cookies.
 ## Contributions
 
 Checkout the [Contribution Info](./CONTRIBUTING.md)
+
+credits to lele's documentation 
